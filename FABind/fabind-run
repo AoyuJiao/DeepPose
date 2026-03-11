@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # --- 0. 路径与环境锚定 ---
-FABIND_TOOL_DIR="$HOME/FABind/FABind/fabind"
-CKPT_PATH="$HOME/FABind/FABind/ckpt/best_model.bin"
+FABIND_TOOL_DIR="$HOME/DeepPose/FABind/fabind"
+CKPT_PATH="$HOME/DeepPose/FABind/ckpt/best_model.bin"
 CONDA_ENV_NAME="fabind"
 
 # 获取 Conda 环境

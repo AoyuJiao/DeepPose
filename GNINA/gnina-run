@@ -1,0 +1,6 @@
+#!/bin/bash
+# 自动加载虚拟环境的动态链接库路径
+export LD_LIBRARY_PATH=~/miniconda3/envs/gnina/lib:$LD_LIBRARY_PATH
+
+# 运行脚本
+~/miniconda3/envs/gnina/bin/python ~/DeepPose/GNINA/gnina_auto.py
