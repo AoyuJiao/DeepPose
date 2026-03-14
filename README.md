@@ -82,7 +82,7 @@ sudo apt-get install git-lfs
 git lfs install
 
 git clone https://github.com/AoyuJiao/DeepPose.git --recursive
-cd DeepPose
+cd DeepPose/FABind
 ```
 
 Create conda environment:
