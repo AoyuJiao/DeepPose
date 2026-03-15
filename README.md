@@ -314,6 +314,8 @@ Contains:
 
 If you use this workflow, please cite the following works.
 
+Jiao, A. (2026). DeepPose: An integrated high-performance platform for protein-ligand docking (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19035542
+
 ## FABind
 
 ```
